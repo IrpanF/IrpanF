@@ -13,6 +13,7 @@
 
 ![https://instagram.com/irpan_fz](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/irfan-fauzi-20a713264/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrpanF&layout=compact&theme=tokyonight) 
 <!-- ###
 
 <picture>
